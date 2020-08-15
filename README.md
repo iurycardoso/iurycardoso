@@ -139,7 +139,7 @@ ______________________________________
 
 ## Formação
 
-### Universidade Ritter Dos Reis
+### Centro universitário Ritter Dos Reis
 #### Tecnólogo em Análise e Desenvolvimento de Sistemas [Em Andamento]
 **Inicío:** 2018/1 | **Previsão de Conclusão:** 2021/2
 
