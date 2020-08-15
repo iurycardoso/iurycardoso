@@ -33,6 +33,7 @@ ______________________________________
 
 ### Conhecedor: 
 - Nodejs
+- React Native
 - Webpack
 - Laravel | Doctrine
 - Java
