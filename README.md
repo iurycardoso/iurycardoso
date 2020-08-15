@@ -23,8 +23,8 @@ ______________________________________
 ### Forte:
 - Angular 4+
 - Html5 | Css3 |Js
-- Advpl 
 - Git
+- Pré-processadores (Sass)
 - Protractor
 - Bootstrap
 - Responsive Design
@@ -36,7 +36,6 @@ ______________________________________
 - Webpack
 - Laravel | Doctrine
 - Java
-- Testes de software
 - Pré-processadores (Sass, Less, Stylus)
 - Automatizadores (Grunt, Gulp)
 - Apache Tunning
@@ -44,10 +43,10 @@ ______________________________________
 - Jmeter
 - POO
 - PSR's
+- LGPD
 
 
-### Banco de Dados
-
+### Banco de Dados Relacional
 - Mysql
 - Oracle
 - SqlServer
@@ -55,6 +54,9 @@ ______________________________________
 
 ### Infra
 - AWS S3
+- Route 53
+- CloudFront
+- CI/CD
 - Apache
 
 
@@ -67,7 +69,7 @@ ______________________________________
 - Sistema de Controle de versão (git)
 - Conhecimento em SEO
 - Conhecimento em Design e Arquitetura de Software
-- Base de UX/UI.
+- UX/UI.
 - Scrum
 - Kanban
 - Módulos Fiscais de: NF-e | CT-e | MDF-e | NFS-e | CTe-Os | NFC-e
@@ -138,7 +140,7 @@ ______________________________________
 
 ### Universidade Ritter Dos Reis
 #### Tecnólogo em Análise e Desenvolvimento de Sistemas [Em Andamento]
-**Inicío:** 2018/1 | **Previsão de Conclusão:** 2021/1
+**Inicío:** 2018/1 | **Previsão de Conclusão:** 2021/2
 
 -------------------------------------------------------------------------------------------
 
