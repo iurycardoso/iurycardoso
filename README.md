@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611399bb11480d9d20024a991f4cc82716dc14f5164&rid=giphy.gif&ct=g" height="240" width="1024"/>
+<img src="https://github.com/iurycardoso/octoiury/blob/main/octocat.png" height="540" width="960"/>
 
 
 # Iury De Moraes Cardoso
