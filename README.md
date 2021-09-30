@@ -1,53 +1,82 @@
+
+
+
 <img src="https://github.com/iurycardoso/octoiury/blob/main/octocat.png" height="540" width="960"/>
+
+
 
 
 # Iury De Moraes Cardoso
 
 Porto Alegre - Rio Grande do sul - Brasil
 
---------------------------------
 ## Desenvolvedor de Software
 
 **Idade:** 29 anos
+
+-------
+
+## Contato
+<a href="https://www.linkedin.com/in/iurycardoso">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60"/>
+</a>
+
 
 **Telefone:** (51) 98349-0576
 
 **E-mail:** iurycardoso6@gmail.com
 
-**Linkedin:** https://www.linkedin.com/in/iurycardoso
-
-**Github:** iurycardoso
-
 ______________________________________
+
+
 
 ## Skills Técnicas
 
 
-### Forte:
-- Angular 4+
+### Tecnologias que trabalho atualmente:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align="center" heigth="50" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" align="center" heigth="50" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" heigth="50" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" heigth="50" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" align="center" heigth="50" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" heigth="50" width="60" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" align="center" heigth="50" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" align="center" heigth="50" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" align="center" heigth="50" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg" align="center" heigth="50" width="60" />
+ </br> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" align="center" heigth="50" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" align="center" heigth="50" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" align="center" heigth="50" width="60" />
+</br> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" align="center" heigth="50" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/protractor/protractor-plain-wordmark.svg" align="center" heigth="50" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" align="center" heigth="50" width="60" />
+</div>
+
+</br>
+
 - Html5 | Css3 |Js
+- Angular 4+
+- React
+- Typescript
 - Git
+- Docker
 - Pré-processadores (Sass)
 - Protractor
 - Bootstrap
-- Responsive Design
 - Firebase
 
 
-### Conhecedor: 
+### Tecnologias que já executei algum projeto: 
 - Nodejs
 - React Native
-- Webpack
 - Laravel | Doctrine
 - Java
-- Pré-processadores (Sass, Less, Stylus)
-- Automatizadores (Grunt, Gulp)
 - Apache Tunning
-- React Js
 - Jmeter
-- POO
-- PSR's
-- LGPD
 
 
 ### Banco de Dados Relacional
@@ -75,6 +104,7 @@ ______________________________________
 - Conhecimento em Design e Arquitetura de Software
 - UX/UI.
 - Scrum
+- LGPD
 - Kanban
 - Módulos Fiscais de: NF-e | CT-e | MDF-e | NFS-e | CTe-Os | NFC-e
 
@@ -171,3 +201,10 @@ ______________________________________
 - Lógica de Programação
 - Mobilização e Liderança de Pessoas
 - Edição e Criação de Vídeos
+
+-------
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurycardoso&show_icons=true&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurycardoso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
