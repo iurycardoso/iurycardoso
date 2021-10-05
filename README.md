@@ -3,7 +3,7 @@
 
 <img src="https://github.com/iurycardoso/octoiury/blob/main/octocat.png" height="540" width="960"/>
 
-
+</br>
 
 
 # Iury De Moraes Cardoso
@@ -14,7 +14,7 @@ Porto Alegre - Rio Grande do sul - Brasil
 
 **Idade:** 29 anos
 
--------
+</br>
 
 ## Contato
 <a href="https://www.linkedin.com/in/iurycardoso">
@@ -26,9 +26,9 @@ Porto Alegre - Rio Grande do sul - Brasil
 
 **E-mail:** iurycardoso6@gmail.com
 
-______________________________________
 
 
+</br>
 
 ## Skills Técnicas
 
@@ -69,6 +69,7 @@ ______________________________________
 - Bootstrap
 - Firebase
 
+</br>
 
 ### Tecnologias que já executei algum projeto: 
 - Nodejs
@@ -78,12 +79,16 @@ ______________________________________
 - Apache Tunning
 - Jmeter
 
+</br>
 
 ### Banco de Dados Relacional
 - Mysql
 - Oracle
 - SqlServer
 - PostgreSQL
+
+
+</br>
 
 ### Infra
 - AWS S3
@@ -92,6 +97,7 @@ ______________________________________
 - CI/CD
 - Apache
 
+</br>
 
 ### Outros
 - Protheus
@@ -108,7 +114,7 @@ ______________________________________
 - Kanban
 - Módulos Fiscais de: NF-e | CT-e | MDF-e | NFS-e | CTe-Os | NFC-e
 
------------------------------------------------------------------
+</br>
 
 ## Experiência
 
@@ -168,7 +174,7 @@ ______________________________________
 
 - Recuperação de crédito de produtos bancários (financiamento de veículos), com o objetivo de reverter o quadro de inadimplência da carteira
 
------------------------------------------------------------------------------------------
+</br>
 
 ## Formação
 
@@ -176,7 +182,7 @@ ______________________________________
 #### Tecnólogo em Análise e Desenvolvimento de Sistemas [Em Andamento]
 **Inicío:** 2018/1 | **Previsão de Conclusão:** 2021/2
 
--------------------------------------------------------------------------------------------
+</br>
 
 ## Cursos Livres
 
@@ -202,8 +208,8 @@ ______________________________________
 - Mobilização e Liderança de Pessoas
 - Edição e Criação de Vídeos
 
--------
 
+</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurycardoso&show_icons=true&theme=radical) 
 
