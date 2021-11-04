@@ -1,6 +1,7 @@
 
 
 
+
 <img src="https://github.com/iurycardoso/octoiury/blob/main/octocat.png" height="540" width="960"/>
 
 </br>
@@ -25,94 +26,97 @@ Porto Alegre - Rio Grande do sul - Brasil
 **Telefone:** (51) 98349-0576
 
 **E-mail:** iurycardoso6@gmail.com
-
-
-
-</br>
+<br>
 
 ## Skills Técnicas
 
 
 ### Tecnologias que trabalho atualmente:
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align="center" heigth="50" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" align="center" heigth="50" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" heigth="50" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" heigth="50" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" align="center" heigth="50" width="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" heigth="50" width="60" />
+ <p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" align="center"  />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" />
+ </p>
+ <p>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" align="center" /> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="center"  />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" align="center"  />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" align="center"  />
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" align="center"  />
+<img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" align="center"  />
+ </p>
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" align="center"  />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" align="center"  />
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" align="center" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" align="center" heigth="50" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" align="center" heigth="50" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" align="center" heigth="50" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg" align="center" heigth="50" width="60" />
- </br> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" align="center" heigth="50" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" align="center" heigth="50" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" align="center" heigth="50" width="60" />
-</br> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" align="center" heigth="50" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/protractor/protractor-plain-wordmark.svg" align="center" heigth="50" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" align="center" heigth="50" width="60" />
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" align="center"  />
+<img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" align="center" />
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" align="center" />
+</div>
+
+<br>
+
+### Tecnologias que já executei algum projeto: 
+<div>
+ <p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="center" >
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" align="center" >
+ </p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" align="center" >
 </div>
 
 </br>
 
-- Html5 | Css3 |Js
-- Angular 4+
-- React
-- Typescript
-- Git
-- Docker
-- Pré-processadores (Sass)
-- Protractor
-- Bootstrap
-- Firebase
+### Banco de Dados
+<div>
+ <p>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" align="center" >
+ </p>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" >
+
+</div>
 
 </br>
 
-### Tecnologias que já executei algum projeto: 
-- Nodejs
-- React Native
-- Laravel | Doctrine
-- Java
-- Apache Tunning
-- Jmeter
-
-</br>
-
-### Banco de Dados Relacional
-- Mysql
-- Oracle
-- SqlServer
-- PostgreSQL
-
-
-</br>
-
-### Infra
-- AWS S3
-- Route 53
-- CloudFront
-- CI/CD
-- Apache
-
-</br>
 
 ### Outros
-- Protheus
-- Sap
-- Datasul
-- Gestão de Projetos
-- Padrões de Projeto (Modelo MVC)
-- Sistema de Controle de versão (git)
-- Conhecimento em SEO
-- Conhecimento em Design e Arquitetura de Software
-- UX/UI.
-- Scrum
-- LGPD
-- Kanban
-- Módulos Fiscais de: NF-e | CT-e | MDF-e | NFS-e | CTe-Os | NFC-e
+<div>
+<p>
+<img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" align="center" >
+<img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" align="center" >
+</p>
+ <p>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" align="center" >
+  </p>
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" align="center" >
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" align="center" >
+</p>
+</div>
+
+
 
 </br>
 
