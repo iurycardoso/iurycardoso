@@ -13,7 +13,7 @@ Porto Alegre - Rio Grande do sul - Brasil
 
 ## Desenvolvedor de Software
 
-**Idade:** 29 anos
+**Idade:** 31 anos
 
 </br>
 
