@@ -17,10 +17,20 @@ Porto Alegre - Rio Grande do sul - Brasil
 
 </br>
 
-## Contato
-<a href="https://www.linkedin.com/in/iurycardoso">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60"/>
-</a>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iurycardoso&label=Profile%20views&color=0e75b6&style=flat" alt="iurycardoso" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iurycardoso" alt="iurycardoso" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/umdevtrue" target="blank"><img src="https://img.shields.io/twitter/follow/umdevtrue?logo=twitter&style=for-the-badge" alt="umdevtrue" /></a> </p>
+
+<h3 align="left">Contato:</h3>
+<p align="left">
+<a href="https://twitter.com/umdevtrue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umdevtrue" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iurycardoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iurycardoso" height="30" width="40" /></a>
+<a href="https://instagram.com/umdevtrue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umdevtrue" height="30" width="40" /></a>
+</p>
 
 
 **Telefone:** (51) 98349-0576
@@ -163,58 +173,33 @@ Porto Alegre - Rio Grande do sul - Brasil
 - Atendimento ao cliente via chamado e telefone 
 - Analise e apoio técnico ao cliente
 
-### Zanc Assessoria de Cobrança
-#### Assistente de supervisão
-**Período:** jan de 2014 – jun de 2015
-
-- Gestão de pessoas, 
-- Controle de turn over, absenteísmo
-- Aplicação de feedback 
-- Desenvolvimento de negociadores
-- Controle de indicadores
-
-#### Negociador
-**Período:** nov de 2013 – jan de 2014
-
-- Recuperação de crédito de produtos bancários (financiamento de veículos), com o objetivo de reverter o quadro de inadimplência da carteira
 
 </br>
 
 ## Formação
 
 ### Centro universitário Ritter Dos Reis
-#### Tecnólogo em Análise e Desenvolvimento de Sistemas [Em Andamento]
-**Inicío:** 2018/1 | **Previsão de Conclusão:** 2021/2
+#### Tecnólogo em Análise e Desenvolvimento de Sistemas
+**Conclusão:** 2021/2
 
 </br>
 
-## Cursos Livres
-
-- JAVA SE
-- Apache Tunning: Alta performance
-- JMeter
-- Iniciando Oracle DB
-- PHP Básico.
-- Iniciando com Java
-- PHP FIG e PSRs
-- PHP com MVC
-- PHP - Avançando com OO
-- PHP - Iniciando com OO
-- PHP com MySQL
-- MySQL
-- Orientação a Objetos
-- HTML,CSS,JAVASCRIPT
-- Introdução a Banco de Dados Relacional e SQL
-- Pentest
-- ITIL V3
-- LINUX LPI
-- Lógica de Programação
-- Mobilização e Liderança de Pessoas
-- Edição e Criação de Vídeos
-
-
-</br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurycardoso&show_icons=true&theme=radical) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurycardoso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iurycardoso&show_icons=true&locale=en&layout=compact" alt="iurycardoso" />
+</p>
+ </div>
+ 
+ 
+<div>
+<p>&nbsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iurycardoso&show_icons=true&locale=en" alt="iurycardoso" />
+</p>
+ </div>
+ 
+ 
+ <div>
+<p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iurycardoso&" alt="iurycardoso" />
+</p>
+ </div>
