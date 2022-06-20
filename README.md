@@ -185,15 +185,9 @@ Porto Alegre - Rio Grande do sul - Brasil
 
  
 
-<div>
-<p>&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iurycardoso&show_icons=true&locale=en" alt="iurycardoso" />
-</p>
- </div>
- <div>
+<br clear="both">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iurycardoso" alt="iurycardoso" /></a> </p>
-</div>
- 
- 
+<img href="https://raw.githubusercontent.com/iurycardoso/iurycardoso/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
