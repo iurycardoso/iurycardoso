@@ -187,7 +187,6 @@ Porto Alegre - Rio Grande do sul - Brasil
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/iurycardoso/iurycardoso/blob/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/iurycardoso/iurycardoso/blob/output/github-contribution-grid-snake.gif)
 ###
 
