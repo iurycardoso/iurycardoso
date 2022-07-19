@@ -131,9 +131,26 @@ Porto Alegre - Rio Grande do sul - Brasil
 
 ## Experiência
 
+### Soluções eSales 
+#### Desenvolvedor Frontend
+**Período:** Março de 2022 - o momento 
+Responsável pelo desenvolvimento frontend do projeto Colecta utilizando as tecnologias: 
+- React js
+- Graphql
+- Postgresql 
+- Hasura
+- Docker
+- NextJs
+- TailwindCss
+- tRpc
+
+### Meta Tecnologia
+#### Desenvolvedor Frontend
+**Período:** Janeiro de 2022 - Março de 2022 
+
 ### Cartórios de Protesto do RS
 #### Desenvolvedor Front-End
-**Período:** Novembro de 2019 - até o momento
+**Período:** Novembro de 2019 - Janeiro de 2022
 
 - Desenvolvimento de novas funcionalidades e sistemas
 - Suporte e manutenção dos softwares presentes na empresa
