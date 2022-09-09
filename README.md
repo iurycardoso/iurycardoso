@@ -134,6 +134,7 @@ Porto Alegre - Rio Grande do sul - Brasil
 ### Soluções eSales 
 #### Desenvolvedor Frontend
 **Período:** Março de 2022 - o momento 
+
 Responsável pelo desenvolvimento frontend do projeto Colecta utilizando as tecnologias: 
 - React js
 - Graphql
@@ -143,6 +144,7 @@ Responsável pelo desenvolvimento frontend do projeto Colecta utilizando as tecn
 - NextJs
 - TailwindCss
 - tRpc
+- Rails
 
 ### Meta Tecnologia
 #### Desenvolvedor Frontend
