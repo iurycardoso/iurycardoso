@@ -13,7 +13,7 @@ Porto Alegre - Rio Grande do sul - Brasil
 
 ## Desenvolvedor de Software
 
-**Idade:** 31 anos
+**Idade:** 32 anos
 
 </br>
 
@@ -131,9 +131,32 @@ Porto Alegre - Rio Grande do sul - Brasil
 
 ## Experiência
 
+### Itaú Unibanco
+#### Engenheiro de software
+**Período:** Dezembro de 2022 - o momento
+
+Atualmente sou desenvolvedor frontend do time da área de seguros, tanto na plataforma mobile quanto na plataforma web. 
+Sempre que possível busco ajudar o time nas tarefas de backend.
+Algumas das tecnologias que trabalho no momento são:
+- Angular
+- React
+- Aws
+- Grafana
+- Splunk
+- Google Analytics 
+- Java
+- NodeJs
+- Docker
+- Pipelines CI/CD
+- Github Actions
+- Banco de dados Relacional
+- Banco de dados não relacional
+- Acessibilidade web
+- Testes unitários e de integração
+---
 ### Soluções eSales 
 #### Desenvolvedor Frontend
-**Período:** Março de 2022 - o momento 
+**Período:** Março de 2022 - Dezembro de 2022
 
 Responsável pelo desenvolvimento frontend do projeto Colecta utilizando as tecnologias: 
 - React js
@@ -145,11 +168,13 @@ Responsável pelo desenvolvimento frontend do projeto Colecta utilizando as tecn
 - TailwindCss
 - tRpc
 - Rails
+---
 
 ### Meta Tecnologia
 #### Desenvolvedor Frontend
 **Período:** Janeiro de 2022 - Março de 2022 
 
+---
 ### Cartórios de Protesto do RS
 #### Desenvolvedor Front-End
 **Período:** Novembro de 2019 - Janeiro de 2022
@@ -157,7 +182,7 @@ Responsável pelo desenvolvimento frontend do projeto Colecta utilizando as tecn
 - Desenvolvimento de novas funcionalidades e sistemas
 - Suporte e manutenção dos softwares presentes na empresa
 - Correções e Melhorias de processos
-
+---
 ### TargetIT Serviços em Tecnologia
 #### Software Developer
 **Período:** Março de 2018 – Outubro de 2019
@@ -166,12 +191,10 @@ Responsável pelo desenvolvimento frontend do projeto Colecta utilizando as tecn
 - Manutenção de sistemas
 - Correções e Melhorias de processos 
 - Desenvolvimento Back-End & Front-End
-
-
+---
 ### TargetIT Serviços em Tecnologia
 #### Assistente Comercial
 **Período:** jan de 2017 – ago de 2017
-
 - Responsável pela carteira de clientes, retenção e manutenção da mesma. 
 
 #### Coordenador de Atendimento e Suporte
